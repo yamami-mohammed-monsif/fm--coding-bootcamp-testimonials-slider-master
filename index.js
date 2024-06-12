@@ -12,9 +12,6 @@ nextBtn[0].addEventListener('click', () => {
         slideOne.setAttribute('data-visible', false);
         slideTwo.setAttribute('data-visible', true);
     }
-
-    
-
 })
 
 prevBtn[1].addEventListener('click', () => {
