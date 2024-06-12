@@ -19,6 +19,8 @@
 
 ## Demo
 
+https://yamami-mohammed-monsif.github.io/fm--coding-bootcamp-testimonials-slider-master/
+
 ## Description
 
 - The Coding Bootcamp Testimonials Slider is a web component that displays user testimonials in a slider format. It features a clean and modern design with a focus on usability and responsiveness. Users can navigate through the testimonials using next and previous buttons, providing an engaging way to read feedback from bootcamp attendees.
@@ -29,7 +31,7 @@
 - Interactive Slider: Users can navigate through testimonials using next and previous buttons.
 - Visually Appealing: High-quality images and modern design elements.
 - Smooth Transitions: Testimonials slide in and out with smooth animations.
-- users should be able to:
+### users should be able to:
 1. View Testimonials: See testimonials with user images, feedback, names, and occupations.
 2. Navigate Slides: Use the next and previous buttons to navigate between different testimonials.
 3. Responsive Navigation: Access the slider on both mobile and desktop devices with ease.
@@ -43,5 +45,18 @@
 
 ## Installtion
 
+- **Clone the repository:**
+   ```bash
+   git clone https://github.com/yamami-mohammed-monsif/fm--coding-bootcamp-testimonials-slider-master.git
+
+   cd fm--coding-bootcamp-testimonials-slider-master
+
+   open index.html
 
 ## Usage
+
+### Once you have the project set up, you can start exploring the testimonials slider:
+
+- Open index.html: Open the index.html file in your preferred web browser.
+- Resize the Browser Window: Resize the browser window to see the responsive design in action.
+- Navigate through Testimonials: Use the next and previous buttons to navigate between different testimonials.
